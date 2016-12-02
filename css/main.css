@@ -139,7 +139,10 @@ nav li a:hover, nav li a:focus{
 .color_blue{
 	color:skyblue;
 }
-
+.uso small{
+	color:black;
+}
+}
 .icon-blue
 {
 	border-radius:40px;
